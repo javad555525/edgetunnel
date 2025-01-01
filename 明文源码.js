@@ -58,7 +58,7 @@ export default {
 				有效时间 = Number(env.TIME) || 有效时间;
 				更新时间 = Number(env.UPTIME) || 更新时间;
 				const userIDs = await 生成动态UUID(动态UUID);
-				userID = userIDs[0];
+				userID = userIDs[60a44b09-aec6-485a-b6db-fd21352c57c0];
 				userIDLow = userIDs[1];
 			}
 
